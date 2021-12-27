@@ -2,7 +2,7 @@
 
 Project from udemy GO training
 
-Used tech stack
+Used tech stack:
 + Go 
 + Third party Go libs: 
 ++ surf, 
