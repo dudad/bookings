@@ -10,8 +10,6 @@ Used tech stack:
   - chi router
 
 
-Used graphs from Unsplash:
-https://unsplash.com/photos/bjej8BY1JYQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 
 
 
