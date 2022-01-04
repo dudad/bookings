@@ -1,6 +1,6 @@
 # Booging webpage
 
-Project from udemy GO training. It is NOT my own project just folowing the author.
+Project from udemy GO training. It is NOT my own project just following the author of training.
 
 Used tech stack:
 - Go 
